@@ -25,7 +25,10 @@ To run this project, you'll need the following Python packages:
 Install them using:
 ```bash
 pip install tensorflow numpy matplotlib
+```
 
-Test Image Grid
-A 5x5 grid displaying random test images with their true and predicted labels, making it easy to assess model performance.
-![image](https://github.com/user-attachments/assets/9de33ab5-e51d-4f2e-9600-9991b7112c44)
+# Test Image Grid
+
+![Test Image Grid](5x5_grid_example.png)
+
+
